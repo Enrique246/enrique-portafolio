@@ -2,19 +2,11 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
+    <div class="m-5">
       <h1>About Me</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      Full-stack web developer recently certified by Tec de Monterrey, web and app design oriented with a 7 year administrative career that includes a masters and bachelor's degree in the same field.  Freelance digital marketer strategist and administrative manager at the health industry. Problem solving and decision taking key skills to fulfill personal and professional goals.  Teamplayer, bringing a constant positive attitude and a strong work ethic, focused on planning and delivering results. Successfully finding innovative ways to make designs come to life. 
+
       </p>
     </div>
   );
