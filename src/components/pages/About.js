@@ -66,10 +66,6 @@ export default function About(props) {
                                        
 								<a href="https://www.linkedin.com/in/edelcastillo/" target="_blank" rel="noopener noreferrer" className="d-flex align-items-center justify-content-center"><span
 										className="fab fa-linkedin m-2 fa-3x"><i className="sr-only">Linkedin</i></span></a> 
-<br></br>
-<br></br>
-
-
       </footer>
     </div>
   );
