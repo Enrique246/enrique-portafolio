@@ -4,8 +4,6 @@ import React from "react";
 export default function Portafolio(props) {
   return (
     <div>
-      
-
       <div className="row p-3" style={{backgroundColor: "whitesmoke"}} >
         <h1 className="m-2" style={{color: "blue"}}>Portafolio</h1>
          {/* Box 1 */}
