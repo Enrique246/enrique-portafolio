@@ -6,3 +6,9 @@
     border-radius: 50% 50%;
     margin: 15px 80px 50px ;
 }
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ }
