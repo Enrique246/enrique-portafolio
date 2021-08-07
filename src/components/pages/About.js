@@ -3,9 +3,9 @@ import "../../styles/About.css";
 
 export default function About(props) {
   return (
-    <div className="m-3">
-      <h1>About Me</h1>
-      <p>
+    <div>
+      <h1 className="m-4">About Me</h1>
+      <p className="m-4">
         Full-stack web developer recently certified by Tec de Monterrey, web and
         app design oriented with a 7 year administrative career that includes a
         masters and bachelor's degree in the same field. Freelance digital
@@ -17,7 +17,7 @@ export default function About(props) {
       </p>
 <br></br>
       <div className="row">
-        <h2>Enrique Del Castillo Chávez </h2>
+        <h2 className="m-4">Enrique Del Castillo Chávez </h2>
         <img
           className="col-sm-1"
           src="images/Screen Shot 2021-03-10 at 23.59.04.png"
