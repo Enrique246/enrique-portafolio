@@ -1,5 +1,5 @@
 import React , { Component } from "react";
-// import "../Contact/ContactForm.css"; 
+import "../../styles/Contact.css";
 
 const validEmailRegex = RegExp(/^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/);
 const validateForm = (errors) => {
