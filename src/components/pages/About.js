@@ -59,7 +59,6 @@ export default function About(props) {
           <h5 className="card-title m-4 text-secondary"> SQL</h5>
         </div>
       </div>
-
       <footer className="bg-black col d-flex justify-content-center">
       <a href="https://github.com/Enrique246" style = {{textDecoration:"none", color:"white"}} target="_blank" rel="noopener noreferrer" className="d-flex align-items-center justify-content-center"><span
 										className="fab fa-github m-2 fa-3x"><i className="sr-only">Github</i></span></a> 
@@ -67,6 +66,9 @@ export default function About(props) {
 								<a href="https://www.linkedin.com/in/edelcastillo/" target="_blank" rel="noopener noreferrer" className="d-flex align-items-center justify-content-center"><span
 										className="fab fa-linkedin m-2 fa-3x"><i className="sr-only">Linkedin</i></span></a> 
       </footer>
+
+      
     </div>
+    
   );
 }
