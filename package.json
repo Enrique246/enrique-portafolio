@@ -2,7 +2,6 @@
   "name": "enrique-portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Enrique246.github.io/enrique-portafolio",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",

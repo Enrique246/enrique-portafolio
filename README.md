@@ -26,7 +26,7 @@
 
 ## Usage
 `npm start`
-[Heroku Deploy Link](https://enrique246.github.io/enrique-portafolio/)
+[GH Pages Link](https://enrique246.github.io/enrique-portafolio/)
 
 ## Resources
 - [Deploying to GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site)
